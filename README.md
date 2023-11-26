@@ -23,10 +23,11 @@ EXPORT_FILE : "information.csv"
 ## $\textcolor{orange}{ScreanShot}$
 
 $${\color{orange}Find \ Popular \ \color{yellow}Person \ in \ my \ network }$$
+
 ![Find Popular Person in my network](./src/pic1.png)
 
 <!-- <div align="center">
   <kbd>
-    <img src="src/pic1.png" width = 1080/>
+    <img src="src/pic1.png" width = 800/>
   </kbd>
 </div> -->
