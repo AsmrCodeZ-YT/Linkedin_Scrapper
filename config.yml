@@ -1,0 +1,12 @@
+# config file
+
+USERNAME : ""
+PASSWORD : ""
+URL  : "https://www.linkedin.com/"
+URL2 : "https://www.linkedin.com/mynetwork/"
+PATH : "../00_WebDriver/chromedriver.exe"
+COUNT: 100
+TIME : 5
+BotSkip : True
+TIME_Bot_HANDLE : 20
+EXPORT_FILE : "information.csv"
