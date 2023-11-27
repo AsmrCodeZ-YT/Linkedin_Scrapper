@@ -10,3 +10,7 @@ TIME : 5
 BotSkip : True
 TIME_Bot_HANDLE : 20
 EXPORT_FILE : "information.csv"
+############################ for job scrapper
+PAGE : 2
+URL3 : "https://www.linkedin.com/jobs/search/?keywords=Computer%20Vision%20Engineer&location=United%20States&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD&start=50"
+EXPORT_FILE2 : "jobDiscibtion.csv"
